@@ -12,6 +12,7 @@ I'm Thalyann (tally-ANN), a data science apprentice on a journey to unlocking th
 🚀 Projects in Progress:
 - **Transaction Fraud Detection:** Using feature engineering, hyperparameter tuning, and ML techniques to create an effective model for detecting fraudulent transactions.
 - **Prime Number Pattern Analysis:** I'm also interested in implementing ML to identify patterns in prime number generation (in binary).
+- **Abstraction and Reasoning Corpus (ARC) Prize Project:** A project focused on analyzing a public data set and improving upon an AI model's ability to learn new skills efficiently. I plan to use a combination of logistic regression, K-Nearest Neighbors, and Support Vector Machines to address the challenge of simulating creative thought in a machine.
 
 📫 How to reach me:
 - www.linkedin.com/in/thalyann-olivo
