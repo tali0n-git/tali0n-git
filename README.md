@@ -3,15 +3,15 @@ I'm Thalyann (tally-ANN), a data science apprentice on a journey to unlocking th
 
 🌱 What I'm Currently Working On:
 - Mastering the fundamentals of data analysis and manipulation using **Pandas** at The Knowledge House Innovation Fellowship.
-- Exploring various datasets to practice data cleaning, exploration, and visualization techniques.
+- Exploring various datasets to practice data cleaning, exploration, data visualization, and machine learning techniques.
 
 📚 What I'm Currently Learning:
 - Building a strong foundation in statistical analysis and machine learning algorithms.
-- Expanding my Python proficiency for data-related tasks and exploring key libraries like **NumPy**, **Matplotlib**, and **Seaborn**.
+- Expanding my Python proficiency for data-related tasks and exploring key libraries like **NumPy**, **Matplotlib**, **Seaborn**, and **scikit-learn**.
 
 🚀 Projects in Progress:
-- **Abstraction and Reasoning Corpus (ARC) Prize Project:** A project focused on analyzing a public data set and improving upon an AI model's ability to efficiently learn new skills. I'm planning to use a simple regression model to guide the fine-tuning of the AI's hyperparameters.
-- **Prime Number Pattern Analysis:** I'm also interested in implementing PCA techniques to identify patterns in prime number generation (in binary).
+- **Transaction Fraud Detection:** Using feature engineering, hyperparameter tuning, and ML techniques to create an effective model for detecting fraudulent transactions.
+- **Prime Number Pattern Analysis:** I'm also interested in implementing ML to identify patterns in prime number generation (in binary).
 
 📫 How to reach me:
 - www.linkedin.com/in/thalyann-olivo
