@@ -2,12 +2,12 @@
 I'm Thalyann (tally-ANN), a data science apprentice on a journey to unlocking the potential of AI.
 
 ### What I'm Currently Working On:
-- Mastering the fundamentals of data analysis and manipulation using **Pandas** at The Knowledge House Innovation Fellowship.
-- Exploring various datasets to practice data cleaning, exploration, data visualization, and machine learning techniques.
+- Analyzing NYC DOE Public School Data to identify key components that may be contributing to improved/worsened school performance
+- Incorporating NYC MTA Survey Data to approximate the impact of public transportation on public school performance
 
 ### What I'm Currently Learning:
-- Building a strong foundation in statistical analysis and machine learning algorithms.
-- Expanding my Python proficiency for data-related tasks and exploring key libraries like **NumPy**, **Matplotlib**, **Seaborn**, and **scikit-learn**.
+- Building a strong foundation in statistical analysis and machine learning algorithms
+- Expanding my Python proficiency for data-related tasks and exploring key libraries like **NumPy**, **Matplotlib**, **Seaborn**, and **scikit-learn**
 
 ### Projects in Progress:
 - **SlideHunter** an AI-powered tool for students and educators using Canvas. It searches through Canvas pages and slides, finding the most relevant sources of information to the user.
