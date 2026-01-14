@@ -3,7 +3,7 @@ I'm Thalyann (tally-ANN), a data science apprentice on a journey to unlocking th
 
 ### What I'm Currently Working On:
 - Analyzing NYC DOE Public School Data to identify key components that may be contributing to improved/worsened school performance
-- Incorporating NYC MTA Survey Data to approximate the impact of public transportation on public school performance
+- Incorporating NYC MTA On-Time Performance Data to assess the impact of public transportation on public school performance
 
 ### What I'm Currently Learning:
 - Building a strong foundation in statistical analysis and machine learning algorithms
