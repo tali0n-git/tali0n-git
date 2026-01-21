@@ -9,9 +9,6 @@ I'm Thalyann (tally-ANN), a data science apprentice on a journey to unlocking th
 - Building a strong foundation in statistical analysis and machine learning algorithms
 - Expanding my Python proficiency for data-related tasks and exploring key libraries like **NumPy**, **Matplotlib**, **Seaborn**, and **scikit-learn**
 
-### Projects in Progress:
-- **SlideHunter** an AI-powered tool for students and educators using Canvas. It searches through Canvas pages and slides, finding the most relevant sources of information to the user.
-
 ### How to reach me:
 - www.linkedin.com/in/thalyann-olivo
 
