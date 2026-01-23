@@ -6,7 +6,7 @@ I'm Thalyann (tally-ANN), a data science apprentice on a journey to unlocking th
 - Incorporating NYC MTA On-Time Performance Data to assess the impact of public transportation on public school performance
 
 ### What I'm Currently Learning:
-- Building a strong foundation in statistical analysis and machine learning algorithms
+- Building a strong foundation in qualitative analysis and machine learning algorithms
 - Expanding my Python proficiency for data-related tasks and exploring key libraries like **NumPy**, **Matplotlib**, **Seaborn**, and **scikit-learn**
 
 ### How to reach me:
