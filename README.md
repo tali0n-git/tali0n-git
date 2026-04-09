@@ -1,8 +1,9 @@
 # Hi there! 👋 
-I'm Thalyann (tally-ANN), a data science apprentice on a journey to unlocking the potential of AI.
+I'm Thalyann (tally-ANN), a recent grad of [The Knowledge House](https://www.theknowledgehouse.org/innovation_fellowship/) Data Science bootcamp.
+I’m also pretty obsessed with turning complex, messy data into clean, useful sources. 😅
 
 ### What I'm Currently Working On:
-- Building a medical notes summarizer app's front and backend frameworks, using Claude Code (Capsule prototype)
+- Building a medical notes summarizer app's front and backend frameworks (Capsule prototype)
 - Designing an interactive art installation 🤫
 
 ### What I'm Currently Learning:
