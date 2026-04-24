@@ -3,6 +3,7 @@ I'm Thalyann (tally-ANN), a recent grad of [The Knowledge House](https://www.the
 I’m also pretty obsessed with turning complex, messy data into clean, useful sources. 😅
 
 ### What I'm Currently Working On:
+- Compiling a pet database for a future app!
 - Building a medical notes summarizer app's front and backend frameworks (Capsule prototype)
 - Designing an interactive art installation 🤫
 
